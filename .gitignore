@@ -1,0 +1,7 @@
+venv/
+build/
+__pycache__/
+*.pyc
+.vscode/
+data/*
+!data/glosas_prueba.csv
